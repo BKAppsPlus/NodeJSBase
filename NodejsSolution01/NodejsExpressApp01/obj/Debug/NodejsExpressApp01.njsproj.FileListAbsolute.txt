@@ -1,0 +1,2 @@
+C:\Software\GH\NodeJSBase\NodejsSolution01\NodejsExpressApp01\obj\Debug\NodejsExpressApp01.njsproj.CoreCompileInputs.cache
+C:\Software\GH\NodeJSBase\NodejsSolution01\NodejsExpressApp01\bin\Microsoft.NodejsTools.WebRole.dll

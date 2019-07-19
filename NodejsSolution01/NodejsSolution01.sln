@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsExpressApp01", "NodejsExpressApp01\NodejsExpressApp01.njsproj", "{1C9F9A2B-C44A-447F-BA50-B1C168B035CC}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebAppBlank01", "NodejsWebAppBlank01\NodejsWebAppBlank01.njsproj", "{0C602061-E28A-4D71-B739-F3735147AA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9F9A2B-C44A-447F-BA50-B1C168B035CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9F9A2B-C44A-447F-BA50-B1C168B035CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9F9A2B-C44A-447F-BA50-B1C168B035CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9F9A2B-C44A-447F-BA50-B1C168B035CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C602061-E28A-4D71-B739-F3735147AA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C602061-E28A-4D71-B739-F3735147AA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C602061-E28A-4D71-B739-F3735147AA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C602061-E28A-4D71-B739-F3735147AA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCCC333-A99C-40A2-A797-7C060B584F97}
+	EndGlobalSection
+EndGlobal
