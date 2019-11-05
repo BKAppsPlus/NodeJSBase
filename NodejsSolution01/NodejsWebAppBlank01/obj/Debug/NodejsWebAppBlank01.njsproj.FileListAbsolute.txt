@@ -1,2 +1,5 @@
 C:\Software\GH\NodeJSBase\NodejsSolution01\NodejsWebAppBlank01\obj\Debug\NodejsWebAppBlank01.njsproj.CoreCompileInputs.cache
 C:\Software\GH\NodeJSBase\NodejsSolution01\NodejsWebAppBlank01\bin\Microsoft.NodejsTools.WebRole.dll
+D:\GitHub\NodeJSBase\NodejsSolution01\NodejsWebAppBlank01\obj\Debug\NodejsWebAppBlank01.njsprojAssemblyReference.cache
+D:\GitHub\NodeJSBase\NodejsSolution01\NodejsWebAppBlank01\obj\Debug\NodejsWebAppBlank01.njsproj.CoreCompileInputs.cache
+D:\GitHub\NodeJSBase\NodejsSolution01\NodejsWebAppBlank01\bin\Microsoft.NodejsTools.WebRole.dll
